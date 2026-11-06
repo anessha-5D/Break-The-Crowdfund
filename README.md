@@ -44,15 +44,8 @@ Expected: 3 tests pass.
 
 ## What I learned at Devcon 8
 
-- (write 3-5 points in your own words here: the four principles, why you should
-  read AI-generated contracts line by line, what reentrancy is)
+I got to learn a lot of things like the AI Learning Lab Ethereum. I also attended Vitalik's talk (Ethereum founder). I got great exposure to Blockchain, Web3, and Ethereum.I got to learn terms like decentralized social media, security and zero knowledge, smart contracts and volume trading etc. I attended the BuidlGuidl workshop based on AI and Ethereum. This project is a learning from the same workshop.
 
-## Four principles from the talk
-
-1. Keep the thinking: the learner does the reasoning
-2. Hints before answers
-3. Explain the choices in your own words
-4. Not yet, try again: mastery before moving on
 
 ## Credits
 
